@@ -2,7 +2,7 @@
 
 Get set up for Java development fast by running these scripts!
 
-# Just run one of the.command files and you're good to go!
+# Just run one of the .command files and you're good to go!
 
 ## Important: Account for IntelliJ IDEA!
 
