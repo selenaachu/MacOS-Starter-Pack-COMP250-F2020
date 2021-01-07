@@ -2,4 +2,4 @@
 
 brew install java
 
-brew cask install intellij-idea-ce
+brew install --cask intellij-idea-ce
