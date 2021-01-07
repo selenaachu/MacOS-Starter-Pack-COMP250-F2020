@@ -2,8 +2,8 @@
 
 brew install java
 
-brew cask install intellij-idea-ce
+brew install --cask intellij-idea-ce
 
-brew cask install eclipse-java
+brew install --cask eclipse-java
 
 brew install git
