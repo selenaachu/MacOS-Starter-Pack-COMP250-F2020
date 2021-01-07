@@ -2,4 +2,4 @@
 
 brew install java
 
-brew cask install eclipse-java
+brew install --cask eclipse-java
