@@ -3,3 +3,4 @@
 brew install java
 
 brew install --cask eclipse-java
+chmod +x drag
